@@ -3,18 +3,17 @@
 * {
     font-family:"Montserrat";
 }
+
 body {
     background-color: #302C42;
 }
 
 .container {
     width: 1440px;
-    margin:auto;
     padding: 50px 84px;
 }
 
 .purple_button{
-    border: 2px solid transparent;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,7 +55,6 @@ body {
 }
 
 .first_button {
-    text-transform: uppercase;
     color: white;
     border: 2px solid white;
     font-weight: 600;
